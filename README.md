@@ -1,5 +1,5 @@
 ---
-title:"hello world"
+title: "hello world"
 author: "ms20"
 date: "30.listopada.2025"
 ---
